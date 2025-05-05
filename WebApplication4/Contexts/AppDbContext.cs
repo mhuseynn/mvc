@@ -18,4 +18,6 @@ public class AppDbContext : DbContext
 
     public DbSet<ProductImage> Images { get; set; }
 
+    public DbSet<Slider> Sliders { get; set; }
+
 }

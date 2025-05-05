@@ -1,0 +1,21 @@
+﻿@using WebApplication4.Models.Concretes
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model Slider
+<div class="container">
+    <form method="post">
+        <div class="form-group">
+            <label  asp-for="Faiz">Name</label>
+            <input asp-for="Faiz" class="form-control">
+
+            <label asp-for="Title">Name</label>
+            <input asp-for="Title" class="form-control">
+
+            <label asp-for="Description">Name</label>
+            <input asp-for="Description" class="form-control">
+
+            <label asp-for="ImgUrl">Name</label>
+            <input asp-for="ImgUrl" class="form-control">
+        </div>
+        <button  type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

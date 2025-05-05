@@ -52,7 +52,7 @@ public class CategoryController : Controller
         return RedirectToAction("Index");
     }
 
-    public IActionResult Uptade(int id)
+    public IActionResult Update(int id)
     {
         var c = _context.Categories.FirstOrDefault(x => x.Id == id);
 
@@ -61,13 +61,10 @@ public class CategoryController : Controller
     
     
     [HttpPost]
-    public async Task<IActionResult> Uptade(int id,string name)
+    public async Task<IActionResult> Update(Category category)
     {
-        var c = _context.Categories.FirstOrDefault(x => x.Id == id);
 
-        c.Name=name;
-
-        _context.Update(c);
+         _context.Update(category);
         await _context.SaveChangesAsync();
 
         return RedirectToAction("Index");
