@@ -1,4 +1,5 @@
-﻿using WebApplication4.Models.Abstracts;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using WebApplication4.Models.Abstracts;
 
 namespace WebApplication4.Models.Concretes;
 
@@ -13,9 +14,12 @@ public class Product : BaseEntity
     public double? Price { get; set; }
 
 
-    public int CategoryId { get; set; }
+    public int? CategoryId { get; set; }
 
-    public Category Category { get; set; }
+    public Category? Category { get; set; }
 
-    public List<ProductImage> Images { get; set; }
+    public string ImageUrl { get; set; }
+
+    [NotMapped]
+    public IFormFile File { get; set; }
 }

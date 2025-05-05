@@ -47,10 +47,14 @@ namespace WebApplication4.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("CategoryId")
+                    b.Property<int?>("CategoryId")
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -126,9 +130,7 @@ namespace WebApplication4.Migrations
                 {
                     b.HasOne("WebApplication4.Models.Concretes.Category", "Category")
                         .WithMany("Products")
-                        .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CategoryId");
 
                     b.Navigation("Category");
                 });
@@ -136,7 +138,7 @@ namespace WebApplication4.Migrations
             modelBuilder.Entity("WebApplication4.Models.Concretes.ProductImage", b =>
                 {
                     b.HasOne("WebApplication4.Models.Concretes.Product", "Product")
-                        .WithMany("Images")
+                        .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -147,11 +149,6 @@ namespace WebApplication4.Migrations
             modelBuilder.Entity("WebApplication4.Models.Concretes.Category", b =>
                 {
                     b.Navigation("Products");
-                });
-
-            modelBuilder.Entity("WebApplication4.Models.Concretes.Product", b =>
-                {
-                    b.Navigation("Images");
                 });
 #pragma warning restore 612, 618
         }

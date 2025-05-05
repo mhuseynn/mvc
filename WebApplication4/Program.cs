@@ -7,7 +7,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
-    opt.UseSqlServer("server=DESKTOP-4RCDPUA\\SQLEXPRESS;database=BezdimDay;Integrated Security=true;Encrypt=false");
+    opt.UseSqlServer("server=.;database=BezdimDayy;Integrated Security=true;Encrypt=false");
 });
 
 var app = builder.Build();

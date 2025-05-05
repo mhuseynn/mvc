@@ -208,6 +208,8 @@ wwwroot\assets\scss\_testimonial.scss
 wwwroot\assets\scss\_variables.scss
 wwwroot\assets\scss\_wishlist.scss
 wwwroot\assets\scss\style.scss
+wwwroot\images\images.jfif
+wwwroot\images\images2.jfif
 wwwroot\manage\css\sb-admin-2.css
 wwwroot\manage\css\sb-admin-2.min.css
 wwwroot\manage\Finter Free Website Template - Free-CSS.com\finter-html\about.html
