@@ -5,7 +5,13 @@ namespace WebApplication4.Models.Concretes;
 
 public class TeacherImage : BaseEntity
 {
-    public string ImgUrl { get; set; }
+    public string? FullName { get; set; }
+
+    public string? Designation {  get; set; }
+
+    public string? ImgUrl { get; set; }
+
+
 
     [NotMapped]
     public IFormFile formFile { get; set; }

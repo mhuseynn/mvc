@@ -4,6 +4,18 @@
 <div class="container">
     <form asp-action="Update" method="post" enctype="multipart/form-data">
         <div class="form-group">
+
+            <label asp-for="FullName">Name</label>
+            <input asp-for="FullName" class="form-control">
+
+
+            <label asp-for="Designation">Designation</label>
+            <input asp-for="Designation" class="form-control">
+
+            <label asp-for="formFile.Name">ImageUrl</label>
+            <input  asp-for="ImgUrl" class="form-control">
+
+
             <label asp-for="formFile">File</label>
             <input  type="file" asp-for="formFile" class="form-control">
         </div>

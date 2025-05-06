@@ -4,6 +4,14 @@
 <div class="container">
     <form method="post" enctype="multipart/form-data">
         <div class="form-group">
+
+            <label asp-for="FullName">Name</label>
+            <input asp-for="FullName" class="form-control">
+
+
+            <label asp-for="Designation">Designation</label>
+            <input asp-for="Designation" class="form-control">
+
             <label asp-for="formFile">File</label>
             <input asp-for="formFile" class="form-control">
         </div>

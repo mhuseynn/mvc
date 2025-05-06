@@ -110,9 +110,6 @@ public class TeacherImageController : Controller
                 fileName = Guid.NewGuid().ToString() + safeFileName;
             }
 
-
-           
-
             var filePath = Path.Combine("C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\images", fileName);
 
             using (var stream = new FileStream(filePath, FileMode.Create))
@@ -123,15 +120,16 @@ public class TeacherImageController : Controller
             slider.ImgUrl = fileName;
 
 
-
-
-            _context.Update(slider);
+            _context.TeachersImages.Update(slider);
             await _context.SaveChangesAsync();
 
             return RedirectToAction("Index");
         }
         else
         {
+           
+            _context.Update(slider);
+            await _context.SaveChangesAsync();
             return RedirectToAction("Index");
         }
     }
