@@ -841,6 +841,18 @@
       "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
     },
     {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\images\\27d8bd1e-76e1-494d-9f5d-21259d52214dBenedict_Cumberbatch_as_Doctor_Strange.jpeg",
+      "PackagePath": "staticwebassets\\images\\27d8bd1e-76e1-494d-9f5d-21259d52214dBenedict_Cumberbatch_as_Doctor_Strange.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\images\\adc5581c-619d-4b84-ac30-6744ed834cb1images2.jfif",
+      "PackagePath": "staticwebassets\\images\\adc5581c-619d-4b84-ac30-6744ed834cb1images2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\images\\bb025047-8fd6-45e6-bddd-867882baa4f2a-smiling-black-male-doctor-in-a-blue-scrub-suit-photo.jpeg",
+      "PackagePath": "staticwebassets\\images\\bb025047-8fd6-45e6-bddd-867882baa4f2a-smiling-black-male-doctor-in-a-blue-scrub-suit-photo.jpeg"
+    },
+    {
       "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\images\\images.jfif",
       "PackagePath": "staticwebassets\\images\\images.jfif"
     },
@@ -8407,6 +8419,510 @@
     {
       "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\manage\\vendor\\jquery\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\manage\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\school\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\css\\style.css",
+      "PackagePath": "staticwebassets\\school\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\appointment.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\appointment.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\bg-header-bottom.png",
+      "PackagePath": "staticwebassets\\school\\img\\bg-header-bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\bg-header-top.png",
+      "PackagePath": "staticwebassets\\school\\img\\bg-header-top.png"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\call-to-action.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\call-to-action.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\classes-1.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\classes-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\classes-2.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\classes-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\classes-3.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\classes-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\classes-4.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\classes-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\classes-5.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\classes-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\classes-6.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\classes-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\school\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\js\\main.js",
+      "PackagePath": "staticwebassets\\school\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\school\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\school\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\school\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\school\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\school\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\school\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\school\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\school\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\school\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\school\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\school\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\school\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\school\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\school\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\school\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\school\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\school\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\school\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\school\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\school\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\school\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

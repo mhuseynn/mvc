@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\mvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|c:\\users\\i novbe\\desktop\\mvc\\webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|c:\\users\\i novbe\\desktop\\mvc\\webapplication4\\areas\\admin\\controllers\\teacherimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\controllers\\teacherimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|c:\\users\\i novbe\\desktop\\mvc\\webapplication4\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|c:\\users\\i novbe\\desktop\\mvc\\webapplication4\\models\\concretes\\teacherimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\concretes\\teacherimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|c:\\users\\i novbe\\desktop\\mvc\\webapplication4\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|c:\\users\\i novbe\\desktop\\mvc\\webapplication4\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|c:\\users\\i novbe\\desktop\\mvc\\webapplication4\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|c:\\users\\i novbe\\desktop\\mvc\\webapplication4\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|c:\\users\\i novbe\\desktop\\mvc\\webapplication4\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|c:\\users\\i novbe\\desktop\\mvc\\webapplication4\\models\\concretes\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\concretes\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|c:\\users\\i novbe\\desktop\\mvc\\webapplication4\\models\\concretes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\concretes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|c:\\users\\i novbe\\desktop\\mvc\\webapplication4\\areas\\admin\\views\\teacherimage\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\teacherimage\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,124 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherImage.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Models\\Concretes\\TeacherImage.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Concretes\\TeacherImage.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Models\\Concretes\\TeacherImage.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Concretes\\TeacherImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:37:53.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication4\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAswJ8DAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:39:40.741Z",
+              "Title": "TeacherImageController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Controllers\\TeacherImageController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\Admin\\Controllers\\TeacherImageController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Controllers\\TeacherImageController.cs",
+              "RelativeToolTip": "WebApplication4\\Areas\\Admin\\Controllers\\TeacherImageController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAmwGQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:32:34.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication4\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "WebApplication4\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Views\\TeacherImage\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\Admin\\Views\\TeacherImage\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Views\\TeacherImage\\Update.cshtml",
+              "RelativeToolTip": "WebApplication4\\Areas\\Admin\\Views\\TeacherImage\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:33:57.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Models\\Concretes\\Slider.cs",
-              "RelativeDocumentMoniker": "WebApplication4\\Models\\Concretes\\Slider.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Models\\Concretes\\Slider.cs",
-              "RelativeToolTip": "WebApplication4\\Models\\Concretes\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T08:32:24.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Models\\Concretes\\Product.cs",
-              "RelativeDocumentMoniker": "WebApplication4\\Models\\Concretes\\Product.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Models\\Concretes\\Product.cs",
-              "RelativeToolTip": "WebApplication4\\Models\\Concretes\\Product.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T08:15:47.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "WebApplication4\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "WebApplication4\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwC0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T08:02:37.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication4\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "WebApplication4\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:03:42.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication4\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "WebApplication4\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:02:48.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication4\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeToolTip": "WebApplication4\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:02:41.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "WebApplication4\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "WebApplication4\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T08:02:32.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T05:30:39.504Z"
             }
           ]
         }

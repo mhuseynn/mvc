@@ -1,0 +1,12 @@
+﻿@using WebApplication4.Models.Concretes
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model TeacherImage
+<div class="container">
+    <form asp-action="Update" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="formFile">File</label>
+            <input  type="file" asp-for="formFile" class="form-control">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

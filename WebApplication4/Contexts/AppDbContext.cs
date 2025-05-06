@@ -20,4 +20,6 @@ public class AppDbContext : DbContext
 
     public DbSet<Slider> Sliders { get; set; }
 
+    public DbSet<TeacherImage> TeachersImages { get; set; }
+
 }
