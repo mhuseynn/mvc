@@ -22,4 +22,6 @@ public class AppDbContext : DbContext
 
     public DbSet<TeacherImage> TeachersImages { get; set; }
 
+    public DbSet<Tag> Tags { get; set; }
+
 }

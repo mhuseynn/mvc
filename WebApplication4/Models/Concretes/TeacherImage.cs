@@ -12,8 +12,7 @@ public class TeacherImage : BaseEntity
     public string? ImgUrl { get; set; }
 
 
-
     [NotMapped]
-    public IFormFile formFile { get; set; }
+    public IFormFile? formFile { get; set; }
 
 }

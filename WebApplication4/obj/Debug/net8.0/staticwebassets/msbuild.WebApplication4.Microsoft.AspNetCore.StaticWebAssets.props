@@ -3780,6 +3780,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\scss\_wishlist.scss'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\0764c14f-45fd-492b-a96f-5293ccc816edBenedict_Cumberbatch_as_Doctor_Strange.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication4</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication4</BasePath>
+      <RelativePath>images/0764c14f-45fd-492b-a96f-5293ccc816edBenedict_Cumberbatch_as_Doctor_Strange.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>94lq6m0x1a</Fingerprint>
+      <Integrity>l/T57A5vCOCQuWYVQqK2OMnHIzB1MQOAyidbslLXW0Q=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\0764c14f-45fd-492b-a96f-5293ccc816edBenedict_Cumberbatch_as_Doctor_Strange.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\0e04488b-0695-452e-8eb3-1ba9a79ce915Benedict_Cumberbatch_as_Doctor_Strange.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication4</SourceId>
@@ -3851,6 +3869,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\36756f3d-b1ad-4d05-81cd-cd4b60f910c5Benedict_Cumberbatch_as_Doctor_Strange.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\82db86ab-902f-4c98-9b5c-d6fe42771db9a-smiling-black-male-doctor-in-a-blue-scrub-suit-photo.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication4</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication4</BasePath>
+      <RelativePath>images/82db86ab-902f-4c98-9b5c-d6fe42771db9a-smiling-black-male-doctor-in-a-blue-scrub-suit-photo.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>epreao6df9</Fingerprint>
+      <Integrity>ws1QsyFQF8gruX4B9D+q/55Vz1euohNDitWAZf9o67A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\82db86ab-902f-4c98-9b5c-d6fe42771db9a-smiling-black-male-doctor-in-a-blue-scrub-suit-photo.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\8a2057b7-07fa-46c0-ae75-bf0b393acf31Benedict_Cumberbatch_as_Doctor_Strange.jpeg'))">
       <SourceType>Package</SourceType>
@@ -3942,6 +3978,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bea443cf-191c-4a4d-8dce-1a68a487653fBenedict_Cumberbatch_as_Doctor_Strange.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Benedict_Cumberbatch_as_Doctor_Strange.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication4</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication4</BasePath>
+      <RelativePath>images/Benedict_Cumberbatch_as_Doctor_Strange.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>94lq6m0x1a</Fingerprint>
+      <Integrity>l/T57A5vCOCQuWYVQqK2OMnHIzB1MQOAyidbslLXW0Q=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Benedict_Cumberbatch_as_Doctor_Strange.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d8685ae4-c876-406e-ab78-727f8e085547a-smiling-black-male-doctor-in-a-blue-scrub-suit-photo.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication4</SourceId>
@@ -3996,6 +4050,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fb0d846c-b427-4597-ba1b-fb0b5b41e0e6Benedict_Cumberbatch_as_Doctor_Strange.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fcc7002b-7cc3-474a-a93f-7a6afaa5caa5Benedict_Cumberbatch_as_Doctor_Strange.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication4</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication4</BasePath>
+      <RelativePath>images/fcc7002b-7cc3-474a-a93f-7a6afaa5caa5Benedict_Cumberbatch_as_Doctor_Strange.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>94lq6m0x1a</Fingerprint>
+      <Integrity>l/T57A5vCOCQuWYVQqK2OMnHIzB1MQOAyidbslLXW0Q=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fcc7002b-7cc3-474a-a93f-7a6afaa5caa5Benedict_Cumberbatch_as_Doctor_Strange.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\images.jfif'))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication4</SourceId>
@@ -4031,6 +4103,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\images2.jfif'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Walter_White_S5B.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication4</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication4</BasePath>
+      <RelativePath>images/Walter_White_S5B.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>809ccatxh8</Fingerprint>
+      <Integrity>aEOtGBnPwi/TFXsie8BYs2pw8DlGQKIELgCZ2NLdBxQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Walter_White_S5B.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\manage\css\sb-admin-2.css'))">
       <SourceType>Package</SourceType>

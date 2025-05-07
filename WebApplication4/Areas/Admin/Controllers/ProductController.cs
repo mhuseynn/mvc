@@ -18,7 +18,7 @@ public class ProductController : Controller
 
     public async Task<IActionResult> Index()
     {
-        var products = await _context.Products.ToListAsync();
+        var products = await _context.Products.Include(x=>x.Category).Include(x=>x.Tags).ToListAsync();
 
         return View(products);
     }
@@ -26,6 +26,7 @@ public class ProductController : Controller
 
     public IActionResult Create()
     {
+        ViewBag.Categories=_context.Categories.ToList();
         return View();
     }
 
@@ -65,19 +66,56 @@ public class ProductController : Controller
 
     public IActionResult Update(int id)
     {
-        var c = _context.Products.FirstOrDefault(x => x.Id == id);
+        var c = _context.Products.Include(x=>x.Category).FirstOrDefault(x => x.Id == id);
+        ViewBag.Categories = _context.Categories.ToList();
 
         return View(c);
     }
 
 
     [HttpPost]
-    public async Task<IActionResult> Update(Product category)
+    public async Task<IActionResult> Update(Product slider)
     {
+        if (slider.File != null)
+        {
+            if (!slider.File.ContentType.Contains("image"))
+            {
+                return View();
+            }
 
-        _context.Update(category);
-        await _context.SaveChangesAsync();
+            var safeFileName = Path.GetFileName(slider.File.FileName);
+            string fileName;
 
-        return RedirectToAction("Index");
+            if (safeFileName.Length > 100)
+            {
+                fileName = Guid.NewGuid().ToString() + safeFileName.Substring(safeFileName.Length - 64);
+            }
+            else
+            {
+                fileName = Guid.NewGuid().ToString() + safeFileName;
+            }
+
+            var filePath = Path.Combine("C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\images", fileName);
+
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                slider.File.CopyTo(stream);
+            }
+
+            slider.ImageUrl = fileName;
+
+
+            _context.Products.Update(slider);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index");
+        }
+        else
+        {
+
+            _context.Update(slider);
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Index");
+        }
     }
 }
