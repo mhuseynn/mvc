@@ -19,4 +19,8 @@ public class AppDbContext : IdentityDbContext<AppUser>
 
     public DbSet<Slider> Sliders { get; set; }
 
+    public DbSet<TeacherImage> TeachersImages { get; set; }
+
+    public DbSet<Tag> Tags { get; set; }
+
 }

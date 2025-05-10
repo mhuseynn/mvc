@@ -19,7 +19,7 @@ public class HomeController : Controller
 
     public async Task<IActionResult> Index()
     {
-        List<Product> products = await _context.Products.Include(x=>x.Images).ToListAsync();
+        List<Product> products = await _context.Products.ToListAsync();
         
         ViewBag.Sliders=await _context.Sliders.ToListAsync();
 

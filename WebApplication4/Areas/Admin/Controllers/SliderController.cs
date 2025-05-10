@@ -32,6 +32,19 @@ public class SliderController : Controller
     public async Task<IActionResult> Create(Slider slider)
     {
 
+        var safeFileName = Path.GetFileName(slider.File.FileName);
+
+
+        var filePath = Path.Combine("C:\\Users\\I Novbe\\Desktop\\mvc\\WebApplication4\\wwwroot\\images", safeFileName);
+
+        using (var stream = new FileStream(filePath, FileMode.Create))
+        {
+            slider.File.CopyTo(stream);
+        }
+
+
+        slider.ImgUrl = safeFileName;
+
         await _context.AddAsync(slider);
         await _context.SaveChangesAsync();
 
