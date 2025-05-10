@@ -1,4 +1,8 @@
-﻿<main class="main-content">
+﻿
+@using WebApplication4.ViewModels
+@model RegisterVM
+
+<main class="main-content">
     <div class="breadcrumb-area breadcrumb-height"
          data-bg-image="assets/images/breadcrumb/bg/1-1-1919x388.jpg">
         <div class="container h-100">
@@ -21,29 +25,33 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 pt-5 pt-lg-0">
-                    <form action="#">
+                    <form method="post" action="#">
                         <div class="login-form">
                             <h4 class="login-title">Register</h4>
                             <div class="row">
                                 <div class="col-md-6 col-12">
-                                    <label>First Name</label>
-                                    <input type="text" placeholder="First Name" />
+                                    <label asp-for="Name">First Name</label>
+                                    <input asp-for="Name" type="text" placeholder="First Name" />
                                 </div>
                                 <div class="col-md-6 col-12">
-                                    <label>Last Name</label>
-                                    <input type="text" placeholder="Last Name" />
+                                    <label asp-for="Surname">Last Name</label>
+                                    <input asp-for="Surname" placeholder="Last Name" />
+                                </div>
+                                <div class="col-md-6 col-12">
+                                    <label asp-for="Username">User Name</label>
+                                    <input asp-for="Username" placeholder="Last Name" />
                                 </div>
                                 <div class="col-md-12">
-                                    <label>Email Address*</label>
-                                    <input type="email" placeholder="Email Address" />
+                                    <label asp-for="Email">Email Address*</label>
+                                    <input asp-for="Email" type="email" placeholder="Email Address" />
                                 </div>
                                 <div class="col-md-6">
-                                    <label>Password</label>
-                                    <input type="password" placeholder="Password" />
+                                    <label asp-for="Password">Password</label>
+                                    <input asp-for="Password" type="password" placeholder="Password" />
                                 </div>
                                 <div class="col-md-6">
-                                    <label>Confirm Password</label>
-                                    <input type="password" placeholder="Confirm Password" />
+                                    <label asp-for="ConfirmPassword">Confirm Password</label>
+                                    <input asp-for="ConfirmPassword" type="password" placeholder="Confirm Password" />
                                 </div>
                                 <div class="col-12">
                                     <button class="btn btn-custom-size lg-size btn-pronia-primary">

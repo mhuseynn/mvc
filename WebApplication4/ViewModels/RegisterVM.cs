@@ -10,6 +10,9 @@ public class RegisterVM
     [Required, MinLength(3)]
     public  string Surname { get; set; }
 
+    [Required, MinLength(3)]
+    public string Username { get; set; }
+
     [DataType(DataType.EmailAddress)]
     public string Email { get; set; }
 

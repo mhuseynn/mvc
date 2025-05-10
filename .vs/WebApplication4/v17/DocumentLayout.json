@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\hmehd\\Desktop\\mvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmehd\\Desktop\\mvc\\WebApplication4\\Migrations\\AppDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication4\\Migrations\\AppDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|c:\\users\\hmehd\\desktop\\mvc\\webapplication4\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6631A5C-5319-40BC-B964-CBF029357E6A}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\hmehd\\Desktop\\mvc\\WebApplication4\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "WebApplication4\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\hmehd\\Desktop\\mvc\\WebApplication4\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "WebApplication4\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hmehd\\Desktop\\mvc\\WebApplication4\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hmehd\\Desktop\\mvc\\WebApplication4\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T14:30:24.516Z",
+              "WhenOpened": "2025-05-10T15:57:55.772Z",
               "EditorCaption": ""
             }
           ]

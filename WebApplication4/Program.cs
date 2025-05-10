@@ -13,11 +13,17 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
     opt.UseSqlServer("server=DESKTOP-4RCDPUA\\SQLEXPRESS;database=BezdimDayy;Integrated Security=true;Encrypt=false");
 });
 
-builder.Services.AddIdentityCore<AppUser>(opt =>
+builder.Services.AddIdentity<AppUser,IdentityRole>(opt =>
 {
     opt.User.RequireUniqueEmail = true;
 
 }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
+
+
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.LoginPath = "/Auth/Login";
+});
 
 
 var app = builder.Build();
@@ -34,9 +40,10 @@ app.MapControllerRoute(
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller}/{action}");
+    pattern: "{controller=Home}/{action=index}");
 
 
-
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.Run();

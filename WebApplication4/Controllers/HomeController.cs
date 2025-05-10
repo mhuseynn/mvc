@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebApplication4.Contexts;
 using WebApplication4.Models.Concretes;
 
 namespace WebApplication4.Controllers;
 
+[Authorize]
 public class HomeController : Controller
 {
 
