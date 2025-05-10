@@ -10,7 +10,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
-    opt.UseSqlServer("server=.;database=BezdimDayy;Integrated Security=true;Encrypt=false");
+    opt.UseSqlServer("server=DESKTOP-4RCDPUA\\SQLEXPRESS;database=BezdimDayy;Integrated Security=true;Encrypt=false");
 });
 
 builder.Services.AddIdentityCore<AppUser>(opt =>
